@@ -107,3 +107,19 @@ footer a i b{
 	color:#c92020;
 	font-weight: normal;
 }
+
+#ssite {
+
+margin: 0 auto;
+width:300px;
+height:200px;
+font-size:20px;
+font-family: Helvetica;
+text-align:center;
+
+
+border-radius: 8px;
+
+position: relative;
+top: 80px;
+}  
