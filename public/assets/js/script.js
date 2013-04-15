@@ -23,10 +23,10 @@ $(function(){
 			message += seconds + " second" + ( seconds==1 ? '':'s' ) + " <br />";
 			
 			if(newYear){
-				message += "left to until site launch!";
+				message += "left until SITE LAUNCH!";
 			}
 			else {
-				message += "left to until site launch!";
+				message += "left until SITE LAUNCH!";
 			}
 			
 			note.html(message);
